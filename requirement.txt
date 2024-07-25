@@ -1,4 +1,4 @@
 matplotlib
-pandas
 seaborn
-steamlit
+streamlit
+pandas
